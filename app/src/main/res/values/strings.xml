@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProfileUI</string>
+    <string name="junior_android_developer_loves_learning_ui_ux_design_and_building_simple_apps">Junior Android Developer | Loves learning UI/UX design and building simple apps.</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="patricia_quiambao">Patricia Quiambao</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="just_a_work_in_progress_currently_buffering_my_dreams">just_a_work_in_progress--_currently_buffering_my_dreams.</string>
+    <string name="Just_a_work_in_progress_currently_buffering_my_dreams">Just a work in progress --currently buffering my dreams</string>
+</resources>
